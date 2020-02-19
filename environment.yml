@@ -1,0 +1,8 @@
+name: self-map
+channels:
+  - pypi
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - jupyterlab
